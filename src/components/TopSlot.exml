@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TopSlotSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1693451c2a5" ></w:Config>
+	<e:Group id="slot_one" width="150" height="250" x="8" y="150">
+		<e:Image width="150" height="250" source="slot_png"/>
+	</e:Group>
+
+	<e:Group id="slot_two" width="150" height="250" x="166" y="150">
+		<e:Image width="150" height="250" source="slot_png"/>
+	</e:Group>
+
+	<e:Group id="slot_there" width="150" height="250" x="324" y="150">
+		<e:Image width="150" height="250" source="slot_png"/>
+	</e:Group>
+
+	<e:Group id="slot_four" width="150" height="250" x="482" y="150">
+		<e:Image width="150" height="250" source="slot_png"/>
+	</e:Group>
+	<e:ProgressBar id="pb" width="530" height="30" horizontalCenter="0" y="89"/>
+	<e:Label id="preLevel" text="1" x="19" y="85" width="30" size="50" textColor="0xb73c3c"/>
+	<e:Label id="nextLevel" text="2" x="602" y="86" width="30" size="50" textColor="0x334ba5"/>
+	<e:Label id="score" text="0" x="273" y="23.12" textAlign="center" size="60" horizontalCenter="0" textColor="0x0a74d3"/>
+	<e:Label id="coin_num" text="0" x="89.33" y="25.18" anchorOffsetX="0" width="50" anchorOffsetY="0" height="50" size="40"/>
+	<e:Image id="coin" source="coin_png" width="50" height="50" x="30" y="21"/>
+</e:Skin>

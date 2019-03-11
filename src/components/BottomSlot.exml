@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BottomSlotSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="169345267ac" ></w:Config>
+	<e:Group id="card_one" width="150" height="250" y="800" x="195">
+	</e:Group>
+	<e:Group id="card_two" width="150" height="250" y="800" x="295">
+	</e:Group>
+</e:Skin>

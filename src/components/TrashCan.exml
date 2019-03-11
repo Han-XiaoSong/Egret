@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TrashCanSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1693c274bac" ></w:Config>
+	<e:Image id="trash_can" width="150" height="170" x="450" y="830" source="trash_png"/>
+	<e:Label id="trash_can_label" text="0/2" x="489.33" y="877.02" anchorOffsetX="0" width="80" height="50" size="50" bold="true"/>
+</e:Skin>
