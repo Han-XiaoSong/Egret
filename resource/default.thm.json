@@ -15,9 +15,7 @@
 		"eui.ItemRenderer": "resource/eui_skins/ItemRendererSkin.exml",
 		"TopSlot": "src/components/TopSlot.exml",
 		"BottomSlot": "src/components/BottomSlot.exml",
-		"TrashCan": "src/components/TrashCan.exml",
-		"StartButton": "src/components/StartButton.exml",
-		"test": "src/components/test.exml"
+		"TrashCan": "src/components/TrashCan.exml"
 	},
 	"autoGenerateExmlsList": true,
 	"exmls": [
